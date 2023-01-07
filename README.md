@@ -7,7 +7,7 @@ Having ![Java](http://img.shields.io/badge/-Java-red?style=plastic&logo=java&log
 
 
 
-Aside from that, my prior works invloved web application development/enhancement using MVC frameworks and front-end technologies (
+Aside from that, my prior works involved web application development/enhancement using MVC frameworks and front-end technologies (
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=FFFFFF),
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=FFFFFF),
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&color=d1b01f)
