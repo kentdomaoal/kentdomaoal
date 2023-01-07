@@ -23,7 +23,7 @@ I also have experience on developing/maintaining back-end applications utilizing
 ). 
 
 
-## Technologies I'm Knowledgeable :books:
+## Technologies I've Learned and Keep Learning :books:
 
 #### Programming and Scripting Languages:
 
