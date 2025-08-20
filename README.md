@@ -1,18 +1,17 @@
 ## About Me 👋
-Hey there! 😄 My name is Kent, I'm a Software Engineer with over 9 years of work experience in application analysis, design, development, testing and deployment. 
+Hey there! 😄 My name is Kent, I'm an IT Professional with over 10 years of work experience in application analysis, design, development, testing and deployment. 
 
 
 
 Having ![Java](http://img.shields.io/badge/-Java-red?style=plastic&logo=java&logoColor=FFFFFF) as my core skill, I have hands-on experience in developing and maintaining test automation frameworks/scripts for UI, Database, and SOAP/Rest API testing, and incorporating CI/CD process. I become more inclined on Test Automation, thus I keep improving my proficiency on those skills and always learning new automation tools.
 
-
+In my previous projects, I developed and enhanced test automation solutions using Playwright, Cypress, Selenium, RestAssured and Postman. I have a strong foundation in RESTful API testing, CI/CD integration (Jenkins, GitHub Actions, Azure DevOps).
 
 Aside from that, my prior works involved web application development/enhancement using MVC frameworks and front-end technologies (
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=FFFFFF),
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=FFFFFF),
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&color=d1b01f)
 and other related frameworks). 
-
 
 
 I also have experience on developing/maintaining back-end applications utilizing core Java/J2EE and frameworks like Spring and Hibernate, and with good working knowledge in PL/SQL, SQL, and Relational Databases (
@@ -29,6 +28,7 @@ I also have experience on developing/maintaining back-end applications utilizing
 
 ![Java](http://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=FFFFFF)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
 
@@ -38,6 +38,7 @@ I also have experience on developing/maintaining back-end applications utilizing
 ![TestNG](https://img.shields.io/badge/-TestNG-blue?style=flat-square&logo=testng&logoColor=FFFFFF)
 ![Serenity BDD](https://img.shields.io/badge/-Serenity%20BDD-darkgreen?style=flat-square&logo=serenity-bdd&logoColor=FFFFFF)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=FFFFFF)
+![Playwright](https://img.shields.io/badge/-Playwright-%232EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=FFFFFF)
 ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?style=flat-square&logo=robot-framework&logoColor=FFFFFF)
 
@@ -64,7 +65,12 @@ I also have experience on developing/maintaining back-end applications utilizing
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)
 
+#### AI Tools:
 
+![GitHub Copilot](https://img.shields.io/badge/Github_Copilot-8957E5?style=flat-square&logo=github-copilot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Playwright MCP](https://img.shields.io/badge/-Playwright_MCP-%232EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-%23161616?style=flat-square&logo=claudecode&logoColor=white)
 
 <!--
 **kentdomaoal/kentdomaoal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
